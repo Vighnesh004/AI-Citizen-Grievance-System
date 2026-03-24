@@ -59,5 +59,17 @@ This endpoint accepts a citizen complaint and returns:
 {
   "complaint": "Street light not working"
 }
+---
+
+---
+
+## 📸 Screenshots
+
+### API Input
+![API Input](api_input.png)
+
+### API Output
+![API Output](api_output.png)
+
 
 

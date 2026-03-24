@@ -51,16 +51,6 @@ This endpoint accepts a citizen complaint and returns:
 - Priority level
 
 ---
-
----
-
-## 📊 Example Input
-```json
-{
-  "complaint": "Street light not working"
-}
----
-
 ---
 
 ## 📸 Screenshots
@@ -70,6 +60,18 @@ This endpoint accepts a citizen complaint and returns:
 
 ### API Output
 ![API Output](api_output.png)
+
+
+---
+---
+
+
+## 📊 Example Input
+```json
+{
+  "complaint": "Street light not working"
+}
+
 
 
 

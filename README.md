@@ -51,20 +51,8 @@ This endpoint accepts a citizen complaint and returns:
 - Priority level
 
 ---
----
-
-## 📸 Screenshots
-
-### API Input
-![API Input](api_input.png)
-
-### API Output
-![API Output](api_output.png)
-
 
 ---
----
-
 
 ## 📊 Example Input
 ```json
